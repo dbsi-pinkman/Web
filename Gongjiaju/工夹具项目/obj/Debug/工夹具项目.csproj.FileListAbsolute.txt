@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\工夹具项目\bin\工夹具项目.dll.config
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\工夹具项目\bin\工夹具项目.dll
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\工夹具项目\bin\工夹具项目.pdb
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\工夹具项目\obj\Debug\工夹具项目.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\工夹具项目\obj\Debug\工夹具项目.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\工夹具项目\obj\Debug\工夹具项目.csproj.CopyComplete
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\工夹具项目\obj\Debug\工夹具项目.dll
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\工夹具项目\obj\Debug\工夹具项目.pdb
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\工夹具项目\bin\Common.dll
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\工夹具项目\bin\Dal.dll
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\工夹具项目\bin\Model.dll
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\工夹具项目\bin\Common.pdb
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\工夹具项目\bin\Dal.pdb
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\工夹具项目\bin\Model.pdb
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\工夹具项目\bin\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\工夹具项目\bin\Newtonsoft.Json.xml

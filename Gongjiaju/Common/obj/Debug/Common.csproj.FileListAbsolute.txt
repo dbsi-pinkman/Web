@@ -1,0 +1,6 @@
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\Common\bin\Debug\Common.dll
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\Common\bin\Debug\Common.pdb
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\Common\obj\Debug\Common.dll
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\Common\obj\Debug\Common.pdb
+C:\Users\hp\Desktop\Web网站开发\Web项目\工夹具项目\Common\obj\Debug\Common.csprojAssemblyReference.cache
